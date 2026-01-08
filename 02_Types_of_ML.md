@@ -55,7 +55,7 @@
 
 ## Offline (Batch) Learning VS Online Learning
 
-<img src="https://github.com/user-attachments/assets/8c02661d-5596-4b4d-947b-ded9be762452"  width="500" height="600">
+<img src="https://github.com/user-attachments/assets/8c02661d-5596-4b4d-947b-ded9be762452"  width="700" height="800">
 
 
 --- 
@@ -79,9 +79,9 @@
 
 <img src="https://github.com/user-attachments/assets/d8bd04e7-72ec-4f80-82f2-3dcb9d67336a"  width="500" height="600">
 
-> In this figure K-nearest neighbors (KNN) algorithm is used. 
-> ❌ (New Instance) is Triangle
-> - When a new instance appears:
+> In this figure K-nearest neighbors (KNN) algorithm is used.  
+> ❌ (New Instance) is Triangle  
+> - When a new instance appears:  
 >   - The algorithm calculates the distance between the new instance and nearby training points.
 >   - Finds the nearest neighbors.
 >   - The class is decided based on the majority of nearest instances.
@@ -106,21 +106,20 @@
 
 <img src="https://github.com/user-attachments/assets/f10d34c2-effa-467e-b89d-b9ac7a6ad60f"  width="500" height="600">
 
-> Model draws a boundary
-> This boundary is the model (mathematical representation).
+> Model draws a boundary  
+> This boundary is the model (mathematical representation).  
 > On left Triangles and On right Squares  
-> ❌ (New Instance) is Triangle
+> ❌ (New Instance) is Triangle  
 > - When a new instance appears:
 >   - The model checks which side of the boundary it lies on.
 >   - The class is predicted without comparing to all data points.
 
+---
+
+## Intance-Based Learning VS Model-Based Learning
 
 
-
-
-
-
-
+<img src="https://github.com/user-attachments/assets/6c0d254a-83d0-40c3-9346-64d2f17b8300"  width="700" height="800">
 
 
 
