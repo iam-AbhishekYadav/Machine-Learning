@@ -40,6 +40,8 @@ Machin leraning is a field of computer science that uses statistical techniques 
 
 # # Types of Machine Learning
 
+Types of Machine Learning on the Basis of amount of Supervision required to train a machine learning algorithm.
+
 ```mermaid
 graph 
     A[Types of Machine Learning]
