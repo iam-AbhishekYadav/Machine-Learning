@@ -1,2 +1,2 @@
-# Ai-Ml
-Artificial intelligence and Machine Learning Series 
+# Machine Learning
+Machine Learning Series 
